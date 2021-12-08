@@ -1,0 +1,5 @@
+- Hi, I’m @jperr19
+- A full-time research coordinator currently working at a land grant institution with a newfound love of statistics and data science.
+- I have modest coding experience in SAS, R, and Python working primarily with experimental data.
+- I am in love with the concept of getting data to tell a story, and wish to one day make a career out of it.
+- Follow along as I work on making this dream a reality while the kiddos are asleep. Cheers!
